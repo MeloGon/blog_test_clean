@@ -1,4 +1,4 @@
-![Simulator Screenshot - iPhone 16 Plus - 2024-10-24 at 15 54 05](https://github.com/user-attachments/assets/4a03d76b-f36e-423b-83b4-79102c4bb90a)# blog_test
+# blog_test
 Things to consider :
 - Flutter version 3.24.3 stable
 - Dart version 3.5.3
